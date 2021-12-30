@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T02:14:27.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="cS4NPok6oE60c9SSAJm6" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T02:14:42.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="hBmwYyIZP8zepmPFRWFl" version="16.1.0" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="2062" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="cH48R8Eq3LlHbHevKKJc-1" value="ETL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="220" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cH48R8Eq3LlHbHevKKJc-2" value="第三方平台/源数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cH48R8Eq3LlHbHevKKJc-2" value="第三方平台SDK/源数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="110" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cH48R8Eq3LlHbHevKKJc-3" value="业务数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T04:15:44.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="44b_usD7cUDv4a8DUCGW" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T04:16:25.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="5T92JG-2NvtGUKsiGFgv" version="16.1.0" type="github">
   <diagram id="-zHOI1xvc0G59mMn--mM" name="Page-1">
     <mxGraphModel dx="2062" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,25 +75,6 @@
         </mxCell>
         <mxCell id="o-7MmJ76zBSDSWKskq-u-12" value="Log" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="636" y="395" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o-7MmJ76zBSDSWKskq-u-30" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="44" y="570" width="726" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="o-7MmJ76zBSDSWKskq-u-31" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="o-7MmJ76zBSDSWKskq-u-30">
-          <mxGeometry width="726" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="o-7MmJ76zBSDSWKskq-u-32" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="o-7MmJ76zBSDSWKskq-u-31">
-          <mxGeometry width="156" height="100" as="geometry">
-            <mxRectangle width="156" height="100" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o-7MmJ76zBSDSWKskq-u-33" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="o-7MmJ76zBSDSWKskq-u-31">
-          <mxGeometry x="156" width="570" height="100" as="geometry">
-            <mxRectangle width="570" height="100" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o-7MmJ76zBSDSWKskq-u-34" value="UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="64" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

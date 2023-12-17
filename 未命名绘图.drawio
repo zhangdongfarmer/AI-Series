@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T16:45:53.256Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="MQlKPn00AWwe5ZBRrAWS" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-17T16:50:41.457Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fVMZyG-V9BFn6zkq9aKY" version="22.1.11" type="github">
   <diagram name="第 1 页" id="z60zmUDA_NRWNLkNqfMZ">
     <mxGraphModel dx="1207" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,6 +129,27 @@
         </mxCell>
         <mxCell id="jyB_UmzL48LcIVnqlv-9-26" value="Data Collecting Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="ryWL0rZuBNHNWBqCZ-Gl-21" vertex="1">
           <mxGeometry x="130" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ryWL0rZuBNHNWBqCZ-Gl-24" value="Attribuly User ID" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="698" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ryWL0rZuBNHNWBqCZ-Gl-25" value="Session" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="698" y="543" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ryWL0rZuBNHNWBqCZ-Gl-26" value="Device" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="698" y="687" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ryWL0rZuBNHNWBqCZ-Gl-27" value="Cross Device / Multi Touch" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="677" y="830" width="162" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ryWL0rZuBNHNWBqCZ-Gl-28" value="Behavior List" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="698" y="973" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ryWL0rZuBNHNWBqCZ-Gl-29" value="Link Path" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="698" y="1117" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ryWL0rZuBNHNWBqCZ-Gl-30" value="Conversion Path" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="698" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
